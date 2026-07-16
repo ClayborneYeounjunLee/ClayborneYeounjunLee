@@ -47,7 +47,3 @@
 **Languages:** Python, JavaScript/TypeScript, C++, SQL
 **Frameworks:** FastAPI, React, Next.js, Node.js, Express, Tailwind CSS
 **Data & Cloud:** PostgreSQL, MongoDB, SQLite, Firebase/Firestore, AWS, Git/GitHub
- 
-## 📊 GitHub Stats
-![Clayborne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClayborneYeounjunLee&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClayborneYeounjunLee&layout=compact&hide_border=true)
